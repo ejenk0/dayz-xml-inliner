@@ -35,7 +35,7 @@ def main(args):
             return 1
 
     # Parse the input XML file
-    with open(input_path, "r") as f:
+    with open(input_path, "r", encoding="utf-8") as f:
         if args.verbose:
             print(f"Parsing input file: {input_path}")
         tree = ET.parse(f)
@@ -110,7 +110,7 @@ def main(args):
         output_done = timer()
 
     if args.verbose:
-        with open(output_path, "r") as f:
+        with open(output_path, "r", encoding="utf-8") as f:
             print(
                 f"DONE: Writing output file: {output_path}. {len(f.readlines())} lines written."
             )
