@@ -1,0 +1,8 @@
+<Package name="General">
+    <Key ID="STR_DZR_GENERAL_FOO">
+        <English>Foo</English>
+    </Key>
+    <Key ID="STR_DZR_GENERAL_BAR">
+        <English>Bar</English>
+    </Key>
+</Package>

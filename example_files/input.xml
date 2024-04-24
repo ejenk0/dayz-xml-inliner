@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="DayZ Rising">
+    <include>xml\package_general.xml</include>
+    <include>xml\package_general_2.xml</include>
+</Project>

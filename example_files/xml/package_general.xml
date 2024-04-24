@@ -1,0 +1,26 @@
+<Package name="General">
+    <Key ID="STR_DZR_GENERAL_YES">
+        <English>Yes</English>
+        <German>Ja</German>
+        <Russian>Да</Russian>
+        <French>Oui</French>
+        <Czech>Ano</Czech>
+        <Spanish>Sí</Spanish>
+        <Italian>Sì</Italian>
+        <Polish>Tak</Polish>
+        <Hungarian>Igen</Hungarian>
+        <Portuguese>Sim</Portuguese>
+    </Key>
+    <Key ID="STR_DZR_GENERAL_NO">
+        <English>No</English>
+        <German>Nein</German>
+        <Russian>Нет</Russian>
+        <French>Non</French>
+        <Czech>Ne</Czech>
+        <Spanish>No</Spanish>
+        <Italian>No</Italian>
+        <Polish>Nie</Polish>
+        <Hungarian>Nem</Hungarian>
+        <Portuguese>Não</Portuguese>
+    </Key>
+</Package>
